@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  author: Wesley Tanaka
+  description: Install oathtool
+  company: http://wtanaka.com
+  license: GPLv2
+  min_ansible_version: 1.5.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+    - utopic
+    - vivid
+    - wily
+    - xenial
+  categories:
+  - security
+  - encryption
+dependencies: []
