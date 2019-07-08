@@ -1,2 +1,3 @@
 ---
-package_name: oathtool
+package_names:
+- oathtool
